@@ -14,6 +14,8 @@ class Fibonacci
     @sum
   end
 
+  private
+
   def calculate
     sum_even
     step_forward
